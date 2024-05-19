@@ -6,6 +6,8 @@ wanting a better fit to give a better, more precice motion system helps the prin
 it also help keep those resonance charts looking a bit cleaner as the pins are a much closer match to the inner diameter of the bearing, so reducing bearing chatter.
 no more will you have the issue of over tightening the bearing stacks.
 
+![Screenshot (221)](https://github.com/Driftrotor/Voron-V0.2r1-Gandtry-Pin-Mod-With-Idlers/assets/94327757/1131d139-908e-4604-b1a1-2bc39daf96a6)
+
 instalation is kept as simple as possible and closely follows the manual.
 
 the only difference with the gantry is placing the pins in the lower printed parts, adding the bearing stacks with the washers and pressing on the upper printed parts.
